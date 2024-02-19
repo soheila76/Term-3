@@ -11,12 +11,16 @@ def alaki(event):
         entry.insert(0,work)
     elif n == 2:
         work="Lunch"
+        entry.insert(0,work)
     elif n == 3:
         work = "Dinner"
+        entry.insert(0,work)
     elif n == 4:
         work = "Sleep"
+        entry.insert(0,work)
     elif n == 5:
         work= "Go to class"
+        entry.insert(0,work)
     
     
 
